@@ -1,5 +1,7 @@
 $(document).ready(function() {
 
+
+
     var query = "royal" ;
     var numbersRecords = 1 ;
     var startYear = 0;
