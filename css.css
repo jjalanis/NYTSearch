@@ -40,3 +40,11 @@
 .container-fluid{
     padding: 0%;
 }
+
+
+.form {
+    background: aqua;
+    margin: 90px;
+    outline-color: black;
+    outline-width: 20px;
+}
